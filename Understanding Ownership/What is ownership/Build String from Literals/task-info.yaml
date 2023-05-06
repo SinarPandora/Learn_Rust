@@ -22,7 +22,6 @@ files:
   learner_created: false
 - name: Cargo.toml
   visible: false
-  encrypted_text: m9XZNRB4SP+Ysnl4An4VfKhjrg51y1hMfKWzufoHDd01pSDDzz5LvQzMsJD2zbiFfJB+ZRIBRWY4gaYM8LdUEO22DgarMbPzbidw5eHvh5f5dbFr/28sweYIkgGcBWhw
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+What+is+ownership+/+Build+String+from+Literals
 status: Unchecked

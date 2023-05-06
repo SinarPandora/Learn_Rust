@@ -3,7 +3,6 @@ custom_name: "Task: Return the Bigger Number"
 files:
 - name: Cargo.toml
   visible: false
-  encrypted_text: m9XZNRB4SP+Ysnl4An4VfOKPRVEPK6TMupqFHQYCqWiI+sprwpdGu5naB0Xh7p6hjHIM/4WvDdeHxveDTKkhvA==
   learner_created: false
 - name: tests/tests.rs
   visible: false
@@ -13,17 +12,20 @@ files:
   visible: true
   placeholders:
   - offset: 43
-    length: 26
+    length: 25
     placeholder_text: //insert the solution here
     initial_state:
       length: 26
       offset: 43
     initialized_from_dependency: false
-    selected: false
-    status: Unchecked
+    selected: true
+    status: Solved
     encrypted_possible_answer: jzuo4eerrtvBqUS5olwW1XRaXSPvwiz4aG94BjyRpWE=
   encrypted_text: w1RZuxBXi3usuT/VgOC4HW4zmRnO+8YtHhGhgg7vuyewvhlqi9lS6ykwKqWB2tSWTIf5ob0k6x49Z8IZ2VGkQQHpxz3yDDB4eqMJC+qhQIw=
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Conditions+/+If+Task
-status: Unchecked
+status: Solved
+feedback:
+  message: 恭喜!
+  time: "Sat, 06 May 2023 11:40:42 UTC"
 record: -1

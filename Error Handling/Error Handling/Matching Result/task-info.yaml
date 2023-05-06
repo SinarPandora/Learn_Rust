@@ -3,7 +3,6 @@ custom_name: "Task: Matching Result"
 files:
 - name: Cargo.toml
   visible: false
-  encrypted_text: m9XZNRB4SP+Ysnl4An4VfPsqM0GCJJCCtXoo07wBl1DravsdVBth8gw4AS/YZf9fUfZ51emY4+iZ+53ncybXWXXCvfJnV8n5C54cEjmrOtw=
   learner_created: false
 - name: src/lib.rs
   visible: true

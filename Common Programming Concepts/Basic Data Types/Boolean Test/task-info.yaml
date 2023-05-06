@@ -3,7 +3,6 @@ custom_name: "Task: Morning or Evening?"
 files:
 - name: Cargo.toml
   visible: false
-  encrypted_text: m9XZNRB4SP+Ysnl4An4VfOw/u2Rcx8COeEyK6PTDDtqs1K3VK7T2dqUUeit6rxY+o5PKJnK1iqpi3ktdEjI7QQ==
   learner_created: false
 - name: src/main.rs
   visible: true

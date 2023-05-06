@@ -3,7 +3,6 @@ custom_name: "Task: Use Arc"
 files:
 - name: Cargo.toml
   visible: false
-  encrypted_text: m9XZNRB4SP+Ysnl4An4VfG4ZmDWXJ3UXP3vEz4i0CV2P8ZtnhhTLKkr8rqsyXKd568vrBu7jxHJHW/uNLXCt+bLxWoyMUZpQv0F4ahj4insatpG4VZGYIA4tD453ajUc
   learner_created: false
 - name: src/main.rs
   visible: true

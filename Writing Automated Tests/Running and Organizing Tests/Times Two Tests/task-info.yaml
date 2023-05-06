@@ -3,7 +3,6 @@ custom_name: "Task: Times Two"
 files:
 - name: Cargo.toml
   visible: false
-  encrypted_text: m9XZNRB4SP+Ysnl4An4VfDoK6R6LHzpmdwVoNKF4pu+dylKeluk8bEpqZ/w7e8CLbimYG+h91pSCtIKJsAtbsGfSkBDJ82nr89TNEoyF/1E=
   learner_created: false
 - name: tests/tests.rs
   visible: true

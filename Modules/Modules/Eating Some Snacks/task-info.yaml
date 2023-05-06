@@ -3,7 +3,6 @@ custom_name: "Task: Eating Some Snacks"
 files:
 - name: Cargo.toml
   visible: false
-  encrypted_text: m9XZNRB4SP+Ysnl4An4VfHk4oufx2ZpUwAP3whK+M2X/3a5PsqMH5VKjeQhisvRhsUhO2N33y+xmsJBnKDEhYEr3UNiVgibKPJGVYQOBmM3Y3fd14xdK46NF5Mi6wG3Ii9eud/ChbPQyHCK/V9JAWA==
   learner_created: false
 - name: src/main.rs
   visible: true

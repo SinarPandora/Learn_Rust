@@ -3,7 +3,6 @@ custom_name: "Task: Making a Sausage"
 files:
 - name: Cargo.toml
   visible: false
-  encrypted_text: m9XZNRB4SP+Ysnl4An4VfHk4oufx2ZpUwAP3whK+M2Xu9/jxJd2/yD+D75ubgmCSZvRGs90EHc0f2M9nOdKCOsvr9ih2mrfZHU/0jHiDx02Z2ZIQ8KYtPJ4+5kgMtsGJnkjapr040beoJfVAtCffDw==
   learner_created: false
 - name: src/main.rs
   visible: true

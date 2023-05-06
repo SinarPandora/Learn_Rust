@@ -3,7 +3,6 @@ custom_name: "Task: String Slice"
 files:
 - name: Cargo.toml
   visible: false
-  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJqpVfULl1BeRnF3ntJIn60BDWFu5N5ku7/6hkWLRw9WMn4cJrEmH/NDW7ewWnY+YywdctpdjaoIEmvzQOjUAys=
   learner_created: false
 - name: src/main.rs
   visible: true

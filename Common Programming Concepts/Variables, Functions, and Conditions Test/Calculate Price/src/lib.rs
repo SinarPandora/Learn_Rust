@@ -1,3 +1,7 @@
-pub fn calculate_price(/* TODO */) /*TODO*/ {
-    /*write your solution here*/
+pub fn calculate_price(amount: i32) -> i32 {
+    if amount < 40 {
+        amount * 2
+    } else {
+        amount
+    }
 }
