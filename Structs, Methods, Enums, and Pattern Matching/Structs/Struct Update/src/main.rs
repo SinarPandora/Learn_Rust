@@ -23,7 +23,11 @@ fn create_order_template() -> Order {
 
 fn your_order() -> Order {
     let order_template = create_order_template();
-    let your_order = // TODO: Create your own order using the update syntax and template above!
+    let your_order = Order{
+        name: "Hacker in Rust".to_string(),
+        count: 1,
+        ..order_template
+    };
     return your_order
 }
 
@@ -31,5 +35,3 @@ fn main() {
     let x = your_order();
     println!("{:?}", x);
 }
-
-
