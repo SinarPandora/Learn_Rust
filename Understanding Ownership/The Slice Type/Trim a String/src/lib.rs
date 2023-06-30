@@ -1,4 +1,4 @@
-pub fn trimmed_space(str: &str) -> &str {
+pub fn trimmed_space(/*TODO*/) -> /*TODO*/ {
     let chars = str.chars();
 
     let mut first_non_space = str.len();
@@ -13,5 +13,5 @@ pub fn trimmed_space(str: &str) -> &str {
         }
     }
 
-    &str[first_non_space..=last_non_space]
+    &str[..]
 }

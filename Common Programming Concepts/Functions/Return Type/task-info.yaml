@@ -8,7 +8,7 @@ files:
   visible: true
   placeholders:
   - offset: 140
-    length: 3
+    length: 19
     placeholder_text: /*put a type here*/
     initial_state:
       length: 19
@@ -25,7 +25,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Functions+/+Return+Type
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Fri, 05 May 2023 08:40:47 UTC"
 record: -1

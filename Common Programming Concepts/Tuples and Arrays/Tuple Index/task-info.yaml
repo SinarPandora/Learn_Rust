@@ -8,7 +8,7 @@ files:
   visible: true
   placeholders:
   - offset: 81
-    length: 9
+    length: 65
     placeholder_text: /*Access the second element of the tuple here using tuple index*/
     initial_state:
       length: 65
@@ -25,7 +25,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Tuples+and+Arrays+/+Tuple+Index
 status: Solved
-feedback:
-  message: 恭喜!
-  time: "Sat, 06 May 2023 11:49:45 UTC"
 record: -1

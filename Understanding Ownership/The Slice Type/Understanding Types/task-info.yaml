@@ -35,7 +35,7 @@ files:
     status: Solved
     encrypted_possible_answer: aupqMOqIQ5EXO3YFxsJQTrHGD9THlIXsXNwIPHWjV1c=
   - offset: 259
-    length: 3
+    length: 16
     placeholder_text: type placeholder
     initial_state:
       length: 16
@@ -44,18 +44,18 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: 2NBORuR2M9+V9dBBUHx7yg==
-  - offset: 293
-    length: 13
+  - offset: 307
+    length: 16
     placeholder_text: type placeholder
     initial_state:
       length: 16
       offset: 307
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: VjS8Kb4YH2ElDggYa6osTg==
-  - offset: 357
-    length: 4
+  - offset: 374
+    length: 16
     placeholder_text: type placeholder
     initial_state:
       length: 16
@@ -71,6 +71,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+The+Slice+Type+/+Understanding+Types
 status: Solved
-feedback:
-  time: "Thu, 29 Jun 2023 13:33:36 UTC"
 record: -1

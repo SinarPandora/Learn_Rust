@@ -1,7 +1,7 @@
 fn main() {
     let a = [1, 2, 3, 4, 5];
 
-    let nice_slice = &a[1..4];
+    let nice_slice = //type the invocation of the slice here;
 
     if nice_slice == [2, 3, 4] {
         println!("Nice slice!");

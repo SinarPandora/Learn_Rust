@@ -1,7 +1,7 @@
 fn main() {
     let hello = String::from("Hello");
 
-    let mut hello1 = add_exclamation(hello);
+    let /*insert the necessary keyword here*/ hello1 = add_exclamation(/*TODO*/);
 
     println!("{} is `{}`", "hello1", hello1);
 
@@ -13,5 +13,5 @@ fn main() {
 fn add_exclamation(s: String) -> String {
     let mut str = s;
     str.push_str("!");
-    str
+    /*TODO*/
 }

@@ -2,6 +2,5 @@ fn main() {
     call_me();
 }
 
-fn call_me() {
-    println!("I'm called from call_me function!");
+//insert the function declaration here {
 }

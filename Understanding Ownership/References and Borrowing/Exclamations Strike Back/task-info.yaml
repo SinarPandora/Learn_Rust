@@ -5,17 +5,17 @@ files:
   visible: true
   placeholders:
   - offset: 89
-    length: 6
+    length: 8
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
       offset: 89
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 1NKotBbBFUIQwKsGIJUG0w==
-  - offset: 242
-    length: 7
+  - offset: 244
+    length: 8
     placeholder_text: /*TODO*/
     initial_state:
       length: 8
@@ -35,7 +35,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+References+and+Borrowing+/+Exclamations+Strike+Back
 status: Solved
-feedback:
-  message: 恭喜!
-  time: "Thu, 01 Jun 2023 12:22:28 UTC"
 record: -1

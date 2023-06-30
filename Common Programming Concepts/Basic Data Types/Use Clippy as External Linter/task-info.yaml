@@ -5,13 +5,13 @@ files:
   visible: true
   placeholders:
   - offset: 40
-    length: 15
+    length: 7
     placeholder_text: 3.14f32
     initial_state:
       length: 7
       offset: 40
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: UY5DzYuvpAnfcOxjVc8E4g==
   encrypted_text: IxqBYPi0gc6Iaspj7DSFJTiMiw7dZe0ppQdJMtaLhK4HcaTbrFW7fMbVvYnBdIPN6PXtc8bCRxzniX+n7hrb2TE4s0GyJ+AkdO0nMnq5C0/ArcJZexeisG7PLZpu2sy0BUzX6QG/JT+Vq34JXOWWWevdRHatdgDUZ58rjBNysgB8cSCyhWB1FKycnRBPBWZXm/il/soj9AIPC3VqVN09d/rgpbndfLig7NX8HOdcuElckpOwYjVw6ywcxxH9DptOMGXxzwTGOZ+0S1Jv2pXz+9/fbDsZy+Bq+UcsDkLwS6E=
@@ -21,6 +21,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Basic+Data+Types+/+Use+Clippy+as+External+Linter
 status: Solved
-feedback:
-  time: "Fri, 05 May 2023 08:26:16 UTC"
 record: -1

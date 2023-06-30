@@ -1,20 +1,16 @@
 struct ColorClassicStruct {
-    name: String,
-    hex: String
+    // Something goes here
 }
 
-struct ColorTupleStruct(String, String);
+struct ColorTupleStruct(/* Something goes here */);
 
 fn classic_c_structs() -> ColorClassicStruct {
-    let green = ColorClassicStruct {
-        name: String::from("green"),
-        hex: String::from("#00FF00")
-    };
+    let green = // Instantiate a classic c struct!
     return green
 }
 
 fn tuple_structs() -> ColorTupleStruct {
-    let green = ColorTupleStruct(String::from("green"), String::from("#00FF00"));
+    let green = // Instantiate a tuple struct!
     return green
 }
 

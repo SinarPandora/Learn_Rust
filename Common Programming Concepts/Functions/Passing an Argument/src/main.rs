@@ -1,5 +1,5 @@
 fn main() {
-    call_me(4);
+    call_me(TODO);
 }
 
 fn call_me(num: u32) {
