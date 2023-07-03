@@ -68,6 +68,7 @@ files:
   learner_created: false
 - name: Cargo.toml
   visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfGvDoweKJ2+bMp5h5OSI+uz2Jytu91UHSU1orhMvAYs7WHk4vsZOrPXDhYh9r+gP1FC1fUWo9IC2dw/opnvv29Q=
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+The+Slice+Type+/+Understanding+Types
 status: Solved

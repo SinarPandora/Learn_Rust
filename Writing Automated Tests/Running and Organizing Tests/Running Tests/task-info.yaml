@@ -2,6 +2,7 @@ type: theory
 files:
 - name: Cargo.toml
   visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfF9TDs38Gr2rxm96CTQu8iH3ROkcGdrzpa27TE2eUspbgmpNBdqB+vSeZtBOYn5aXcPujZBeHCVNVTy9Kd2wJCw=
   learner_created: false
 - name: src/lib.rs
   visible: true

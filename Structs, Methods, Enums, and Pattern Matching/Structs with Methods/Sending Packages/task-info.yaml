@@ -3,6 +3,7 @@ custom_name: "Task: Sending Packages"
 files:
 - name: Cargo.toml
   visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfIvSlELXSJQk6DvSQaUK+l0cm2ElG4sFBLuuCrC1OqLW0zGUTujv50DLHvofT6DqcFuBlY4qTlidgiq/7Eas0uM=
   learner_created: false
 - name: src/main.rs
   visible: true

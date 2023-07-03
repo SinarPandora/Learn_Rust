@@ -52,6 +52,7 @@ files:
   learner_created: false
 - name: Cargo.toml
   visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfNSPJQPoGeODtT/Ln4dCn5abZbHj+Lwk1pd2f4rMQqEvyiA1RiPXa3orIuG82WLKcPT2IGS5v8TQhQiBqE8FZvM=
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Structs+/+Play+with+Color+Structs
 status: Solved

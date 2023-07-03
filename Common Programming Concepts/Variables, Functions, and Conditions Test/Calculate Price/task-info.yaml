@@ -3,6 +3,7 @@ custom_name: "Task: Calculate Price"
 files:
 - name: Cargo.toml
   visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfDXSIJoZMMd6boLEwT8mausclfzeO4Jr5mHQfx6pnyvYMMtE7ua0rzET7jLufbkgJ9rnbVis48tcxJmraplrRAo=
   learner_created: false
 - name: tests/tests.rs
   visible: false

@@ -36,6 +36,7 @@ files:
   learner_created: false
 - name: Cargo.toml
   visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfDrSivGcxVydqDkMiDIaufYH6T2aG5rxFSoxYNaz4rKpKJEmWJ+fJn5eI3vpmfVk9+q7PLFhMIREXFSNknPvVx8=
   learner_created: false
 - name: tests/tests.rs
   visible: false

@@ -3,6 +3,7 @@ custom_name: "Task: Define a Function"
 files:
 - name: Cargo.toml
   visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfJMB3Mc7EVSffDtW3xW2bdwZ75mQuwjgQXY6BLtnFEXV9Igf1I9BDmpmiva1Jmb5rLlNcijwTL60/ifxkf1N+W8=
   learner_created: false
 - name: src/main.rs
   visible: true

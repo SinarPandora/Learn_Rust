@@ -3,6 +3,7 @@ custom_name: "Task: Pass an Argument"
 files:
 - name: Cargo.toml
   visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfGhohCp4RO7zA94fNd1rb59572jpE4ZkQ/RncPwIOQjXPOO38RR+ySsowp2Ak8lG0y0IWxZVdN9vawfcgGOW9gI=
   learner_created: false
 - name: src/main.rs
   visible: true

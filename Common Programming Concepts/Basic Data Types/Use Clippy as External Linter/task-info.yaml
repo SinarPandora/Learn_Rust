@@ -18,6 +18,7 @@ files:
   learner_created: false
 - name: Cargo.toml
   visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfEce3DNJ+Gmjo+c70g24fQ6+zuWmnQcsHOJeswOI6AXazvL5twuXz9nP3RcmPkONQy/g8fJ/I6YWMeL0jiqV+3kJUzuF/RRY0gvkFiYp9A0s
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Programming+Concepts+/+Basic+Data+Types+/+Use+Clippy+as+External+Linter
 status: Solved

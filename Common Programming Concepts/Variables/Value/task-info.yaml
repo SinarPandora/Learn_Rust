@@ -3,6 +3,7 @@ custom_name: "Task: Give a Value"
 files:
 - name: Cargo.toml
   visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfL9wnEvXKoQjfwgsmPzfJBzMU8//V/H3PT2QUClmfmHWtLcZaxVUN2ywMtKpgX5N5TJ+//tC5UQajGmrEvT7LaA=
   learner_created: false
 - name: src/main.rs
   visible: true

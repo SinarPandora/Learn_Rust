@@ -3,6 +3,7 @@ custom_name: "Task: Macro Arms"
 files:
 - name: Cargo.toml
   visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfBLOEccMta+rkcKQOGNaN3SVOjfsN5xJBOB0EuDczX7XqwTaZ9njhoF4vtAuwthR/dX/01X4zLEemBdIQoSIyj0=
   learner_created: false
 - name: src/main.rs
   visible: true

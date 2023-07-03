@@ -3,6 +3,7 @@ custom_name: "Task: Mutable Variable Binding"
 files:
 - name: Cargo.toml
   visible: false
+  encrypted_text: m9XZNRB4SP+Ysnl4An4VfK+OYIrqteEe2gpDZ38sIH2udi+Q6uWZkwZnOdAGWuv7ztsPE1bdRqh48VwXygy198ogTysKV7iZU3FufHMFKUs=
   learner_created: false
 - name: src/main.rs
   visible: true
