@@ -17,7 +17,6 @@ files:
   learner_created: false
 - name: Cargo.toml
   visible: false
-  encrypted_text: m9XZNRB4SP+Ysnl4An4VfIKw7xvCraPPjf4BFdJl+Az4GDdgTOjj4S2Fp/B1O7P/1GwdK35dUq9m06/Hf3kER25YYHNdA4Ew8Rcx96qRk7YJajQ/ir2BviIQWDtkQxXc
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Closures+/+Capturing+the+Environment+with+Closures
 status: Unchecked

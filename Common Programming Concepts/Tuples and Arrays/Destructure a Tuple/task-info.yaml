@@ -3,7 +3,6 @@ custom_name: "Task: Destructure a Tuple"
 files:
 - name: Cargo.toml
   visible: false
-  encrypted_text: m9XZNRB4SP+Ysnl4An4VfLrk5oZUyR2ls4naEWTghjTHsUCgsZebuBG1qjD9f/01ZFtiGuXBV70Yo96HiQVINh16cKYCxs49VtVhGj129j3s9iLr99+hxf8nQazzWgyr
   learner_created: false
 - name: src/main.rs
   visible: true

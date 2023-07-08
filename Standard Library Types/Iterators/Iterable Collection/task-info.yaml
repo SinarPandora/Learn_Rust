@@ -3,7 +3,6 @@ custom_name: "Task: Iterable Collection"
 files:
 - name: Cargo.toml
   visible: false
-  encrypted_text: m9XZNRB4SP+Ysnl4An4VfONSYxi05c4kUBEuCm2sRc2JEz31HlCWDpYpJgTByA0ieSum4+gTq1UKOkzFCA7v3TYNCnlcT+XG0GvzL+NEc4c=
   learner_created: false
 - name: tests/tests.rs
   visible: false

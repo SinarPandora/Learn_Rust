@@ -3,7 +3,6 @@ custom_name: "Task: Loop Over Vector with Iterators"
 files:
 - name: Cargo.toml
   visible: false
-  encrypted_text: m9XZNRB4SP+Ysnl4An4VfM9pg3NW74rMXQsYPJhbOb9+f58o3rbmWoMDyZ+3h0jRw+xx+2ZVqHJqLJGEun5YJU2wuxfasPI2BdrqQofVGUiuwvOSMSw2WRwSJ2u0zPEx
   learner_created: false
 - name: tests/tests.rs
   visible: false
