@@ -5,7 +5,7 @@ files:
   visible: true
   placeholders:
   - offset: 406
-    length: 120
+    length: 33
     placeholder_text: // Put new fruits if not already present. Note that you are
       not allowed to put any type of fruit that's already present!
     initial_state:
@@ -13,7 +13,7 @@ files:
       offset: 406
     initialized_from_dependency: false
     selected: false
-    status: Solved
+    status: Unchecked
     encrypted_possible_answer: dQ3+Piw/yG1CQR3+FbJGW7heBQYcGp8AiWlV48jqjMpuqsRizcAUsrNIsqc+TMq0
   encrypted_text: ZrXfX0hq3grwbdLxz14AtdgP3gA50mqwq1U3sNc63ltc2U0SxSbY7MQ9gOeAIp53UPke2OW3Cf5x0hlEEYVyUfFGnWNVVGTzTPsNlC3gwa0fiGZyLsWvEPmGlapNVWuc1wnW+QwVjCXPG7J5k7J9GRblXltqPr87i3738h9Tx6ZGTcIXMVNWnEZKbeAYpZ5ltZrvWmdqBB6pctR7EQnPnZWEOqLjg8q5sMMW+JQdey7uUpBO8Uq7e0VnDc3tXHCQeaS6kfn8W37w0wZ0Y1iFikFcRzna1GrH73kDGK0SxZxu4iJ1g4nGrLlvvMxfdy1b2RCUPkItIwC65J+EPuZ0aG9QjITyC4SZCu/MG1ErXn6wmMveRWrJJu2pXg4tgw6eMN72XID7Ejf++MIvvaKDL7P/yYTVO8O9vcQuaM6cZhDjwZamYAhMsimOpYxA5SDWaWZ1iThalq+Xz0NUSEsEWPWl0ap/HwnoVqHJS36MxHNE1iGGgHE8JokWmDV9H8FfZZ0IgLXJXIrAVBpC1cLms26qIPeEDaOZ76PVaJ0MO8V0uU0mAJ/uZ6ltrNTVuIZAUFA3rnh7AsINp7xYj6MvqPCNL8ZRc2EMKepF22rSsqkdO4wY8ebAOptQyDfKqFkDaTL2PkO6U0fVDEwpkLsa8E3VYbJwaq696vF+wIDDcYR0XaEcwuJdBdKfPVlmWMNRM8ZQIs1pMVEjOh02BkOYOA==
   learner_created: false
@@ -30,4 +30,7 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Hashmaps+/+More+Fruits
 status: Solved
+feedback:
+  message: 恭喜!
+  time: "Mon, 10 Jul 2023 15:10:58 UTC"
 record: -1
