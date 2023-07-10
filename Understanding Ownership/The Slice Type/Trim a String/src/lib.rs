@@ -13,5 +13,9 @@ pub fn trimmed_space(/*TODO*/) -> /*TODO*/ {
         }
     }
 
-    &str[..]
+    if last_non_space == 0 {
+        &str[first_non_space..]
+    } else {
+        &str[..]
+    }
 }

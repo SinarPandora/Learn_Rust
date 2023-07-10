@@ -24,17 +24,17 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: Tf9c8oedbSvEpZfxODPsIA==
-  - offset: 364
+  - offset: 442
     length: 2
     placeholder_text: ..
     initial_state:
       length: 2
-      offset: 364
+      offset: 442
     initialized_from_dependency: false
     selected: false
     status: Solved
     encrypted_possible_answer: owJHsxX0/IBia/PCY2iw40IqCou3F0OF8AjhqYKp3qRTgSlrKA9BdrvMJYQrJuGw
-  encrypted_text: arvftx4s6KAHENy0GCfSXfclMF5XLRoGjyKOZrf1aZrAB+wD5+BGI4YBeEWrtt/qYOc8sym2wVeLN9xjTsGP4OkTkm60TPb5G+YcMlwl9zUlFCy93ULsRNnm+5tLlxEnHNiRKWeF8clzUMXUyr6G8HyLY6QOXvapsEBTtamuHUV3RbOMH7UcHefQu7FuMEo0/d1FCxsejbZdekCqm+QPGsUqqpKzkEDOqkYhNxdVfcZCXSFaLeXKW64Sy1YvvvwqFS/j3vEYu+VXDKFZ7uQbDd0EufR1d3lRRHnp/AWBKLBDrvCn6QkquzJ2l1K0KMxi3SzhMN/gQXsJMTbEJfnSBXi6rUCC+ZxKaCVGDXdAnaDUqBpzd2uxM27ORwYM8X/yC8wOYLC0LXwtQ1RnA4XJkG++h1F1o2fxEfKU9uZAyS5SDPqhd1PflogyTpIaBKef9xEgeY0uxp+BHSmHgIGkuNRm2jrUN/m/RbIoAfmlr6HcKuaKbe6HaTrVwBFsIYw6
+  encrypted_text: arvftx4s6KAHENy0GCfSXfclMF5XLRoGjyKOZrf1aZrAB+wD5+BGI4YBeEWrtt/qYOc8sym2wVeLN9xjTsGP4OkTkm60TPb5G+YcMlwl9zUlFCy93ULsRNnm+5tLlxEnHNiRKWeF8clzUMXUyr6G8HyLY6QOXvapsEBTtamuHUV3RbOMH7UcHefQu7FuMEo0/d1FCxsejbZdekCqm+QPGsUqqpKzkEDOqkYhNxdVfcZCXSFaLeXKW64Sy1YvvvwqFS/j3vEYu+VXDKFZ7uQbDd0EufR1d3lRRHnp/AWBKLBDrvCn6QkquzJ2l1K0KMxi3SzhMN/gQXsJMTbEJfnSBXi6rUCC+ZxKaCVGDXdAnaDUqBpzd2uxM27ORwYM8X/yC8wOYLC0LXwtQ1RnA4XJkG++h1F1o2fxEfKU9uZAyS5SDPqhd1PflogyTpIaBKef9xEgeY0uxp+BHSmHgIGkuDQiaV/NgzFM6WJ2hVdvjzBo3C5B09jkl592IeCdUb0vIi0bFfMlUS6bvNb6haGHtfvF4JYCX0IO8awIaFrRDpxHZmgz4QXctdLyUNuxwaKskZBaQOyNMYgapMPHCVZFIlJhmY4Xgq4VtwbOz+LrwlE=
   learner_created: false
 - name: src/main.rs
   visible: true

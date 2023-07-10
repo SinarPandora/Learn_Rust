@@ -5,7 +5,7 @@ files:
   visible: true
   placeholders:
   - offset: 36
-    length: 29
+    length: 47
     placeholder_text: // Define a few types of messages as used below
     initial_state:
       length: 47
@@ -25,7 +25,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Structs+Methods+Enums+and+Pattern+Matching+/+Enums+/+Deliver+Messages
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Mon, 03 Jul 2023 02:17:28 UTC"
 record: -1

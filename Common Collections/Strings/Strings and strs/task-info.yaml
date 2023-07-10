@@ -8,17 +8,17 @@ files:
   visible: true
   placeholders:
   - offset: 118
-    length: 12
+    length: 4
     placeholder_text: TODO
     initial_state:
       length: 4
       offset: 118
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: GZ4Z3FxiBBNG8s/Xz6TKRQ==
-  - offset: 144
-    length: 6
+  - offset: 136
+    length: 4
     placeholder_text: TODO
     initial_state:
       length: 4
@@ -27,8 +27,8 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
-  - offset: 175
-    length: 6
+  - offset: 165
+    length: 4
     placeholder_text: TODO
     initial_state:
       length: 4
@@ -37,8 +37,8 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
-  - offset: 207
-    length: 6
+  - offset: 195
+    length: 4
     placeholder_text: TODO
     initial_state:
       length: 4
@@ -47,38 +47,38 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
-  - offset: 246
-    length: 6
+  - offset: 232
+    length: 4
     placeholder_text: TODO
     initial_state:
       length: 4
       offset: 232
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: GZ4Z3FxiBBNG8s/Xz6TKRQ==
-  - offset: 281
-    length: 6
+  - offset: 265
+    length: 4
     placeholder_text: TODO
     initial_state:
       length: 4
       offset: 265
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
-  - offset: 333
-    length: 12
+  - offset: 315
+    length: 4
     placeholder_text: TODO
     initial_state:
       length: 4
       offset: 315
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: GZ4Z3FxiBBNG8s/Xz6TKRQ==
-  - offset: 379
-    length: 12
+  - offset: 353
+    length: 4
     placeholder_text: TODO
     initial_state:
       length: 4
@@ -87,8 +87,8 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: GZ4Z3FxiBBNG8s/Xz6TKRQ==
-  - offset: 422
-    length: 6
+  - offset: 388
+    length: 4
     placeholder_text: TODO
     initial_state:
       length: 4
@@ -97,14 +97,14 @@ files:
     selected: false
     status: Solved
     encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
-  - offset: 486
-    length: 6
+  - offset: 450
+    length: 4
     placeholder_text: TODO
     initial_state:
       length: 4
       offset: 450
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: 9UEmKhN43UGHEegW1VGuFA==
   encrypted_text: EMLqhDuENHU7AxPDLygKqxXUnIDzBqS0OlFbCWIsioI8JAh56AHU8F/BsI5XdMNkk5ernguHhtOK2+1v24wCkea4Uw1PV6a5NCJIaXq3jktsNOfJMCyzV+UQayqB1eH2SoPhNA9ltGPnh0j1E38rWSySxlBDNc+VWUncv4zOCoMPalmm+/UrpyFDf+GCYHZ+WNxxXHUayadaOsU6y3rrvUlIfGAqCCdfPD4bxABTlrjjYKSHEeGHyPOUh0f3s8CIqP4jhDjruPtYbONrYM0mr43HopM1NKh03gzcns8D33fBv9Rv/uxa5amcxGcMY73X1uqEZ5pomlE6EWQEatVqLzenZyPCNAuf1DuIAXUt5piIZgoQJVQ29G48EKAmwYY0WJtcGT9sDzr4dsLPRJ52TPCVchhHm/Y+cQxHRfAZ7sUQKSwRfoitZOB7CEplMe0ZxgeTReRlNdvaE0GTo0dfkG7bI87xN1ROk3rBboJzp1wBHJGsWe8IhmmmNkTQUS7dD9HNKXJ8q4su2Q4cP0mKvT+ufhCORGy8icMkBErvkTfugmCEo6IhjQqXgWL3gz8j1NI5Ei3XD7QeWof+rfKH59FBEqJNAT/CwsGtqnh+e0f5AgLvoShyglRwYYE3aNNR0fS7oqU0L3ze5GCJw6x6k/1H2GFBq9x+haFSC67yWcI=
@@ -115,7 +115,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Strings+/+Strings+and+strs
 status: Solved
-feedback:
-  message: 恭喜!
-  time: "Sat, 08 Jul 2023 11:21:37 UTC"
 record: -1

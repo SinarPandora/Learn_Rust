@@ -8,13 +8,13 @@ files:
   visible: true
   placeholders:
   - offset: 160
-    length: 3
+    length: 55
     placeholder_text: /*insert the keyword here to make the function public*/
     initial_state:
       length: 55
       offset: 160
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: Ek5n1xVO6F+uh3wYJynyng==
   encrypted_text: mzkH9qBSP+G7hotDQ7gw8lK33iWtz7RpEcqaTyTF3hGb9Y13Op+PiWDAMnovGeKb/ZOfqdatAdgMXakULit1aRsYLr0wScztaoeRyt5fI50sYVxWxwGIzCOD9sYYjer3vCLhgMsD3zZTbGgxqRJki1XlQixkBzQHcBf7ET8YpGIUZ+EGoOxom++TMRVxiVg6sxfXlfzw/ww11nhPoF8cER2hXKGHR+wnVolZWEktUmF7+mWHROdaDr7HlVN6nm8zyVNr4anNhLyuAMTMU41YJ/4TPHr6P+VepewsUDwF1PXw1fCtmtl6f8usziG3cBAZWe9f4Kc6Po4Mm3xXzHZ2pqbHY2GlfVbGbttQL8FUbyh29L+PDluj7nMkA59QrtBlA0BP0csHwcfe0x4C/c9DfToGHjgPSxhjTtV9PDL5BBSeWbOkxsg2dPa8ryMoF8vBT1e9Hio2T8FOxsjkRauH1k6JrJj4J4CXT16nM/C5JGE=
@@ -25,7 +25,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Modules+/+Modules+/+Making+a+sausage
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Mon, 03 Jul 2023 04:54:33 UTC"
 record: -1

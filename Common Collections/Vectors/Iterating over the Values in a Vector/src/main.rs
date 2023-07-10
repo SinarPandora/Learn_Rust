@@ -8,6 +8,4 @@ fn main() {
     for i in &mut v {
         *i += 50;
     }
-
-    println!("{:?}", v)
 }

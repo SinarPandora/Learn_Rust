@@ -11,23 +11,12 @@ impl Package {
             // This shouldn't happen so we panic 
             panic!();
         } 
-        Package {
-            sender_country,
-            recipient_country,
-            weight_in_grams
-        }
+        /* Instantiate the package here */
     }
 
-    fn is_international(&self) -> bool{
-        self.sender_country == "Spain" && self.recipient_country == "Germany"
-    }
-
-    fn get_fees(&self, cents_per_gram: i32) -> i32 {
-        cents_per_gram * self.weight_in_grams
-    }
-}
-
-fn main() {
+    fn is_international(&self) -> /* Add return type */{
+        /* Something goes here */    fn get_fees(&self, cents_per_gram: i32) -> i32 {
+  /* Add return type */   cents_pe/* Something goes here */n() {
     let sender_country = String::from("Spain");
     let recipient_country = String::from("Germany");
     

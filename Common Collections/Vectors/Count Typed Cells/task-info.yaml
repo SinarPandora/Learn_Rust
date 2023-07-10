@@ -4,18 +4,18 @@ files:
 - name: src/lib.rs
   visible: true
   placeholders:
-  - offset: 332
-    length: 3
+  - offset: 329
+    length: 10
     placeholder_text: /* TODO */
     initial_state:
       length: 10
       offset: 329
     initialized_from_dependency: false
-    selected: true
+    selected: false
     status: Solved
     encrypted_possible_answer: Lh6PsScdVvMeSUxghw/ftA==
-  - offset: 368
-    length: 151
+  - offset: 372
+    length: 21
     placeholder_text: /* Add match cases */
     initial_state:
       length: 21
@@ -39,7 +39,4 @@ files:
   learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Common+Collections+/+Vectors+/+Count+Typed+Cells
 status: Solved
-feedback:
-  message: Congratulations!
-  time: "Fri, 07 Jul 2023 05:58:14 UTC"
 record: -1
