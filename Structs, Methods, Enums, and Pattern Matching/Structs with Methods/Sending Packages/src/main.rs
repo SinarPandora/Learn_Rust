@@ -14,9 +14,16 @@ impl Package {
         /* Instantiate the package here */
     }
 
-    fn is_international(&self) -> /* Add return type */{
-        /* Something goes here */    fn get_fees(&self, cents_per_gram: i32) -> i32 {
-  /* Add return type */   cents_pe/* Something goes here */n() {
+    fn is_international(&self) -> /* Add return type */ {
+        /* Something goes here */
+    }
+
+    fn get_fees(&self, cents_per_gram: i32) -> /* Add return type */ {
+        /* Something goes here */
+    }
+}
+
+fn main() {
     let sender_country = String::from("Spain");
     let recipient_country = String::from("Germany");
     

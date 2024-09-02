@@ -1,12 +1,11 @@
 type: theory
 files:
-- name: src/main.rs
-  visible: true
-  encrypted_text: sl3O59VlDkdl7u9JaiP8DBP002tP8sjAR4VkCpEZ3H7XffY+3PRjpyXS5Rx0Cooxih6uxCEMwjnPkeCKLis46xwjP1o9aNFqLN6bP0vTupfXUa3eMz49Z699lBN5FMxBPt4nLzJ43CsqvilmBtO6GP8L/EzMUCHS0OzYgGxKL6VJFv0gRe8IdVMCZp5jpXF0+8ozdEkI1Tsm3klvWJxKgubqAGhP+eYsAULcw1I36oIqWPkIqB0mKyCpUn5e1SCquRCzyunWP7zfllBtbgnh/A==
-  learner_created: false
-- name: Cargo.toml
-  visible: false
-  learner_created: false
+  - name: src/main.rs
+    visible: true
+    learner_created: false
+  - name: Cargo.toml
+    visible: false
+    learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Understanding+Ownership+/+References+and+Borrowing+/+Restriction+of+Mutable+References
 status: Solved
 record: -1

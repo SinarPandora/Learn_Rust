@@ -1,12 +1,11 @@
 type: theory
 files:
-- name: src/lib.rs
-  visible: true
-  encrypted_text: +H1wPW0dBwDsyvDd/liH7GsPF9IfG2vazze9E0wuHxOZJWbljr8glUlj/hAoSa05weOtjdlIR5IlnLATWv/LrVxr5mpguY/VE3yKeXidzDAx8epZiqWdWFjzzwp9kom4kTngUPVzgsZYeqhGtNnKEwDjN6aP1jS9EUy0neNOj4cS8zjR8x8q0gGRo17oYMsvY6pIXpza8AfX+HwlWBsUUA==
-  learner_created: false
-- name: Cargo.toml
-  visible: false
-  learner_created: false
+  - name: src/lib.rs
+    visible: true
+    learner_created: false
+  - name: Cargo.toml
+    visible: false
+    learner_created: false
 feedback_link: https://docs.google.com/forms/d/e/1FAIpQLSdfJQgjsbDA4pPGpklj3vJnKNspd9wmEHzAgh6EkoJy2IiRuw/viewform?usp=pp_url&entry.2103429047=Standard+Library+Types+/+Iterators+/+Methods+that+Produce+Other+Iterators
 status: Unchecked
 record: -1
